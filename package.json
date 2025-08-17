@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/aditya154919/Movie-Search.git",
+  "homepage": "https://aditya154919.github.io/Movie-Search",
   "name": "movie-search",
   "version": "1.0.0",
   "private": true,
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
